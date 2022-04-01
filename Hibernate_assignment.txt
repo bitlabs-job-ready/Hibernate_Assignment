@@ -1,0 +1,30 @@
+
+Q1. create a class representing entity called "Product" with following variables.
+   a. product_id
+   b. product_name
+   c. product_price
+   d. product_qty
+  
+ 1. The product_id has to be the automatically generated.
+ 2. The Product table has to be created by Hibernate at application startup.
+ 3. Create hibernate.cfg.xml file to maintain database connection details and hibernate properties.
+ 4. Add product records to the database.
+ 5. Delete specific record from the database.
+ 6. Search records by name
+ 7. Resulting all records. 
+
+
+ Q2. create a class representing entity called "Users" with following variables.
+       a. uid
+       b. uname
+       c. password
+       d. email id
+       e. mobile
+
+     1. The uid has to be the automatically generated.
+     2. The Users table has to be created by Hibernate at application startup.
+     3. Create hibernate.cfg.xml file to maintain database connection details and hibernate properties.
+     4. Add user records to the database
+     5. Implement login module
+     
+
